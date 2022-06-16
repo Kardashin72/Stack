@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\Stack\Stack\stack112.h(12,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\Stack\Stack\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Stack.vcxproj -> C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\Stack\x64\Debug\Stack112.exe
